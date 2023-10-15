@@ -1,0 +1,110 @@
+D Zhang - Personal Web
+
+# sidebar
+
+alt = Di(Dee/D) Zhang
+Di(Dee/D) Zhang
+Software Engineer - intern
+
+Show Contacts
+
+Email
+devin.h.chang@gmail.com
+
+Phone
++1 (458) 272-8656
+
+Location
+Portland, OR, USA
+
+# navbar
+
+About
+Resume
+Contact
+
+# about
+
+About me
+
+I'm a graduate student specializing in Computer Science at Oregon State University. With strong communication skills, team spirit, and problem-solving abilities, I am passionate and dedicated to my field of study. Outside of academics, I have a zest for life, embracing adventures like traveling, road trips, hiking, and swimming
+
+In terms of professional interests, I lean towards full-stack development but remain open to exploring various directions within the tech industry. I possess a robust learning ability, which I believe equips me to take on diverse challenges in technology. My journey in full-stack development is complemented by several personal projects that allowed me to hone my skills and apply tools and technologies such as Python, HTML, CSS, JavaScript, Node.JS, MongoDB, Mongoose, Docker, Passport.js, and Auth0...
+
+A believer in continuous learning, I am currently engaged in expanding my knowledge base through Angular/React online courses from Udemy during my spare time. Embracing every opportunity to learn, adapt, and grow is central to my approach in navigating the dynamic landscape of Computer Science
+
+## service
+
+What i'm doing
+
+alt = design icon
+Web design
+The most modern and high-quality design made at a professional level.
+
+alt = Web development icon
+Web development
+High-quality development of sites at the professional level.
+
+
+## clients
+
+Clients
+
+alt = client logo
+
+
+
+# resume
+
+Resume
+
+Education
+
+Oregon State University
+Sept. 2022 — Dec. 2024
+Master of Engineering, Computer Science
+
+Henan University of Engineering
+Sept. 2014 — June 2018
+Bachelor of Science, Information and Computing Science
+
+Core Coursework
+Data Structure, Analysis of Algorithms, Operating System, Computer Network, Artificial Intelligence/Machine Learning
+
+Projects
+
+YelpCamp Web Application
+Dec. 2022
+Designed and implemented a full-stack campground web application that allows users to share, review, and comment on campgrounds
+Utilized EJS for dynamic webpage templating, ensuring a responsive and interactive user experience
+Integrated MongoDB for data storage, using Mongoose for data validation and to build complex queries
+Designed a RESTful API to handle CRUD operations for campgrounds and reviews
+Implemented user registration, login, and session management using Passport.js
+
+Integrating AI in BlogPost Web Application
+May 2023
+Conceptualized and built an AI-powered SAAS application 'BlogPost' allowing users to craft blog entries using OpenAI’s GPT
+Integrated user authentication with Auth0 and incorporated payment solutions using Stripe
+Styling web applications using Tailwind CSS
+Utilizing MongoDB for data storage and management
+
+Production-Ready REST API with Flask and Python
+July 2023
+Developed a scalable and robust REST API using Python and Flask, containerized with Docker for consistent deployments
+Implemented resource-based APIs utilizing Flask extensions such as Flask-Smorest, Flask-JWT- Extended, and Flask-SQLAlchemy
+Designed and integrated secure user registration and authentication systems within the Flask framework
+Navigated deployment challenges specific to Flask REST APIs, leveraging Docker for efficient and reproducible deployment workflows
+Enhanced API security and performance by introducing advanced user authentication features like JWT blacklisting and optimizing API responsiveness using task queues and background workers
+
+
+# contact
+
+Contact
+
+Contact Form
+
+Full name
+Email address
+Your Message
+
+Send Message
